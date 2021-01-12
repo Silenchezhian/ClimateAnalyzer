@@ -2,7 +2,7 @@
 Climate Change Analyzer is an object-oriented Java program that performs various climate change analyzing tasks on a given CSV with the lowest and highest temperature in each month between 2000 and 2016 in every country in the world.
 
 # Description
-To run the program, run '''ClimateAnalyzer.java''', and respond to the prompted questions in the console, appropriately. If invalid responses are given, the program will reprompt the user to answer accordingly. 
+To run the program, run ```ClimateAnalyzer.java```, and respond to the prompted questions in the console, appropriately. If invalid responses are given, the program will reprompt the user to answer accordingly. 
 Below is a list of tasks performed by the following program:
 
 **TASK A: Specific Country Searches**
